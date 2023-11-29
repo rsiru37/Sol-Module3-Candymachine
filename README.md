@@ -1,7 +1,7 @@
 # CandyMachine Assesstment | Module3
 A Simple NFT Minting Dapp where people mint NFTs using a custom SPL Token
 
-## Descriptioon
+## Description
 In this project I have used surgar-cli(v2), and candy machine-ui to demonstrate custom spl token minting, by connecting the phantom wallet to the dapp and proceeding with the minting of NFTs, after deploying the candymachine NFT configuration file and then using the frontend to view and proceed with the details of the configuration.
 
 ### Installation
